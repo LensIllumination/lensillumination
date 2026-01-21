@@ -1,5 +1,6 @@
 # 💫 About Me:
 We are a photography company based in Toronto, Ontario.
+All code is made by @Jquob
 
 
 # 💻 Tech Stack:
